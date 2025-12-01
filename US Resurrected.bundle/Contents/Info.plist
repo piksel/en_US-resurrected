@@ -3,15 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.u.s.resurrected</string>
+	<string>org.sil.ukelele.keyboardlayout.usresurrected</string>
 	<key>CFBundleName</key>
 	<string>US Resurrected</string>
 	<key>CFBundleVersion</key>
-	<string></string>
-	<key>KLInfo_U.S. Resurrected</key>
+	<string>3</string>
+	<key>KLInfo_U.S. Resurrected v3</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.u.s.resurrected.u.s.resurrected</string>
+		<string>org.sil.ukelele.keyboardlayout.usresurrected.u.s.resurrectedv3</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
