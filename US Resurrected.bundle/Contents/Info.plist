@@ -7,15 +7,15 @@
 	<key>CFBundleName</key>
 	<string>US Resurrected</string>
 	<key>CFBundleVersion</key>
-	<string>3</string>
-	<key>KLInfo_U.S. Resurrected v3</key>
+	<string>4</string>
+	<key>KLInfo_U.S. Resurrected v4</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.usresurrected.u.s.resurrectedv3</string>
+		<string>org.sil.ukelele.keyboardlayout.usresurrected.u.s.resurrectedv4</string>
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
